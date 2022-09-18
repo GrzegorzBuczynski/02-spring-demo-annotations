@@ -2,7 +2,7 @@ package com.luv2code.springdemo;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-public class AnnotationBeanScopeDemoApp {
+public class AppAnnotationBeanScopeDemo {
     public static void main(String[] args) {
         
         // load config file
